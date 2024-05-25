@@ -2,6 +2,6 @@
 This is a Simple project for automate login process.
 
 Changes needs to be made:
-write chrome WebDriver executable path.
-Mentioned the Email addredd and password.
+/nwrite chrome WebDriver executable path.
+/nMentioned the Email addredd and password.
 
